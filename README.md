@@ -34,7 +34,7 @@ To run this project locally:
 
 ```bash
 git clone https://github.com/aaryanshahi02/textutils.git
-cd textutils
+cd TextUtils
 npm install
 npm start
 ```
